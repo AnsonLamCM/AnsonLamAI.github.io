@@ -1,3 +1,16 @@
 theme: jekyll-theme-minimal
 title: Anson Lam's AI homepage
 description: Some interesting blog about AI knowledge will be published soon...
+
+social:
+  - name: My Twitter
+    url: https://twitter.com/
+
+articles:
+  - title: Article 1
+    url: article1.md
+    preview: "This is a short preview of Article 1."
+  - title: Article 2
+    url: article2.md
+    preview: "This is a short preview of Article 2."
+  # ... and so on
